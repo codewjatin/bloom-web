@@ -6,6 +6,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "og-image.vercel.app",
       },
+      {
+        protocol: "https",
+        hostname: "links.papareact.com",
+      },
     ],
   },
   experimental: {
