@@ -7,7 +7,7 @@ export default async function Page() {
       <nav className="px-20 h-20 border-b flex">
         <div
           id="nav_main"
-          className="flex justify-center items-center text-xs gap-8 overflow-scroll ">
+          className="flex justify-center items-center text-xs gap-8 overflow-scroll">
           {categories.map((category, i) => {
             const srcName = category.split(" ").join("-").toLowerCase();
             return (
@@ -21,7 +21,7 @@ export default async function Page() {
           })}
         </div>
       </nav>
-      <section className="mt-16 px-20 flex justify-around flex-wrap gap-x-4 gap-y-8">
+      <section className="mt-10 px-20 flex justify-around flex-wrap gap-x-4 gap-y-12">
         {events.map((event, i) => {
           return (
             <div
@@ -29,9 +29,10 @@ export default async function Page() {
               className="flex flex-col overflow-hidden bg-white rounded-xl shadow-md text-slate-500 shadow-slate-200 sm:flex-row w-max">
               <figure className="px-4 py-4">
                 <img
+                  loading="eager"
                   src={event.imageUrl}
-                  alt="card image"
-                  className="object-cover w-[310px] aspect-auto rounded-md"
+                  alt="cardimage"
+                  className="object-cover h-[232px] w-[320px] aspect-auto rounded-md"
                 />
               </figure>
               <div className="p-6 ml-1 mr-4 sm:px-0">
