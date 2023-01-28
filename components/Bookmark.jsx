@@ -16,10 +16,7 @@ export default function Bookmark() {
                       Meta Creaters Day: Chennai
                     </h3>
                     <p className="text-sm text-slate-400">
-                      10:00 AM | Thursday
-                    </p>
-                    <p className="text-sm text-slate-400">
-                        27 October, 2022
+                      10:00 AM, 27 October 2022
                     </p>
                     <p className="text-sm text-slate-400">
                         The Leela Palace Chennai
@@ -28,10 +25,6 @@ export default function Bookmark() {
                   <div>
                   <button className="inline-flex items-center justify-center h-10 gap-2 px-5 text-sm font-medium tracking-wide transition duration-300 rounded focus-visible:outline-none justify-self-center whitespace-nowrap bg-gray-100 text-gray-600 hover:bg-gray-200 hover:text-gray-600 disabled:cursor-not-allowed disabled:border-gray-300 disabled:bg-gray-100 disabled:text-gray-400 disabled:shadow-none">
                     <span>View Details</span>
-                    <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M12.105 24.21C18.7369 24.21 24.2121 18.7273 24.2121 12.105C24.2121 5.47312 18.7273 0 12.0954 0C5.47523 0 0 5.47312 0 12.105C0 18.7273 5.48484 24.21 12.105 24.21ZM12.105 21.8255C6.71085 21.8255 2.39412 17.4991 2.39412 12.105C2.39412 6.71085 6.70124 2.38452 12.0954 2.38452C17.4895 2.38452 21.8276 6.71085 21.8276 12.105C21.8276 17.4991 17.4991 21.8255 12.105 21.8255Z" fill="black"/>
-                    <path d="M9.47064 17.8805C9.80696 18.2072 10.4943 18.1859 10.8562 17.8474L15.63 13.3495C16.3422 12.6959 16.3422 11.5376 15.63 10.8839L10.8562 6.38813C10.455 6.00821 9.85477 6.00282 9.48868 6.35297C9.0715 6.73077 9.06189 7.38421 9.46314 7.75452L14.1044 12.105L9.46314 16.4789C9.07361 16.845 9.06306 17.4729 9.47064 17.8805Z" fill="black"/>
-                    </svg>
                   </button>
                   </div>
                 </header>
