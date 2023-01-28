@@ -1,11 +1,11 @@
 export default function Head() {
   const meta = {
-    title: 'Next.js Headstart',
-    description: `Get a headstart in developing a Next.js app`,
+    title: "Bloom",
+    description: "Get a headstart in developing a Next.js app",
     image:
-      'https://og-image.vercel.app/%60Next.js%60%20%3Cbr%3E%20Headstart%20by%20**Jatin%20Kumar**%20%3Cbr%3E%20Bootstrap%20your%20project%20with%20this%20clean%20Next.js%20starter.png?md=1&fontSize=50px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg',
-    url: 'https://nextjs-headstart.vercel.app/',
-    type: 'website',
+      "https://og-image.vercel.app/%60Next.js%60%20%3Cbr%3E%20Headstart%20by%20**Jatin%20Kumar**%20%3Cbr%3E%20Bootstrap%20your%20project%20with%20this%20clean%20Next.js%20starter.png?md=1&fontSize=50px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg",
+    url: "https://nextjs-headstart.vercel.app/",
+    type: "website",
   };
   return (
     <head>
