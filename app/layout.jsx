@@ -1,5 +1,6 @@
 import Footer from "../components/Footer";
 import Nav from "../components/Nav";
+import Pass from "../components/Pass";
 import { Outfit } from "@next/font/google";
 import "./globals.css";
 
