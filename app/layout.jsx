@@ -1,6 +1,6 @@
 import Footer from "../components/Footer";
 import Nav from "../components/Nav";
-import Pass from "../components/Pass";
+import Saved from "../components/Saved";
 import { Outfit } from "@next/font/google";
 import "./globals.css";
 
@@ -12,6 +12,7 @@ export default function RootLayout({ children }) {
       <body className={`${outfitFont.className}`}>
         <Nav />
         {children}
+        <Saved />
         <Footer />
       </body>
     </html>
