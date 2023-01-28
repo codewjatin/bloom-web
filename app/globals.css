@@ -17,7 +17,19 @@ body {
   line-height: 1.5;
 }
 
-svg {
-  shape-rendering: geometricprecision;
-  text-rendering: optimizeLegibility;
+#nav_main::-webkit-scrollbar {
+  display: none;
+}
+
+.category-icon::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  height: 2px;
+  width: 100%;
+  background-color: white;
+}
+
+.category-icon:hover::after {
+  background-color: lightgray;
 }
