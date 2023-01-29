@@ -26,6 +26,23 @@ To work towards standardization of the grading system for the technical webinar/
 Our app Bloom can be a business if it is developed with the intention of generating revenue. Bloom works both on B2B
 and B2C categories. We can charge fees from organizers for managing their event's promotion by offering in-app advertisements and priority listing in ads, certificate generation and distribution on the basis of their scores in the assessment, and attendee reviews. On the other hand, for customers, this can be done through a variety of methods such as charging fees for event ticket sales or offering premium features like event certificate generation and usage for a fee.
 
+## The App
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/91269087/215334057-2eb3e093-ee9a-46b7-b451-b6958c9e2f7f.png" width=270></td>
+    <td><img src="https://user-images.githubusercontent.com/91269087/215334079-4af97916-6e03-4cbe-9e6f-8b0a391f39af.png" width=270></td>
+  </tr>
+  <tr>
+      <td><img src="https://user-images.githubusercontent.com/91269087/215335099-144b9fc8-e5cf-4c22-83d8-df1622b602ca.jpg" width=270></td>
+    <td><img src="https://user-images.githubusercontent.com/91269087/215335084-474033a3-3468-4c19-abf7-b7c2d7f27168.jpg" width=270></td>
+  </tr>
+ </table>
+
+## The Web 
+
+<img src="https://user-images.githubusercontent.com/91269087/215335218-dd0ba359-1fec-4688-93c0-7bc8ab2388fc.png" height=350>
+
 ## Technologies we used
 
 1. Swift
@@ -35,7 +52,7 @@ and B2C categories. We can charge fees from organizers for managing their event'
 5. SwiftUI
 6. HTML/CSS/JS
 
-# Our Team
+## Our Team
 
 - [Sitanshu Pokalwar](https://github.com/Sitzz23)
 - [Md Inzamamul Haque](https://github.com/i-haq786)
