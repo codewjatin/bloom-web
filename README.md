@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/91269087/215331095-15780022-9ded-45fb-b406-9ad17fad7cb0.png" alt="drawing" width="150"/>
 <h1 align="center">
 BLOOM
-<h3 align="center"> The Ultimate Events Companion! </h3>
+<h3 align="center">The Ultimate Events Companion</h3>
 </h1>
 </p>
 
