@@ -43,7 +43,7 @@ and B2C categories. We can charge fees from organizers for managing their event'
 
 <img src="https://user-images.githubusercontent.com/91269087/215335218-dd0ba359-1fec-4688-93c0-7bc8ab2388fc.png" height=350>
 
-## Technologies we used
+## Technologies Uused
 
 1. Swift
 2. Next.js
